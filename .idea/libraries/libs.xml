@@ -1,0 +1,11 @@
+<component name="libraryTable">
+  <library name="libs">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/../dropbox-android-sdk-1.5.4/examples/DBRoulette/libs/json_simple-1.1.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dropbox-android-sdk-1.5.4/examples/DBRoulette/libs/httpmime-4.0.3.jar!/" />
+      <root url="jar://$PROJECT_DIR$/../dropbox-android-sdk-1.5.4/examples/DBRoulette/libs/dropbox-android-sdk-1.5.4.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
